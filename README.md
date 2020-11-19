@@ -16,7 +16,7 @@
 3. `Average reading` Scores of each student  in 9th graders, 10th graders, 11th graders, and 12th graders. at each school are approximately the same  scores and its higher than `math` scores. 
 
 #### School Budgets per Student
-4. `School paid less` on average for each student they has `higher score` rather than school paid for each student more. For example the budget per student was `less than $585` but the `overall score 90.37` on the other hand budget for each student is `almost $680` but the `overall score is 53.53` ! ).
+4. `School paid less` on average for each student they has `higher score` rather than school paid for each student higher. For example the budget per student was `less than $585` but the `overall score 90.37` on the other hand budget for each student is `almost $680` but the `overall score is 53.53` ! ).
 
 #### Number of Students per School
 5. `Schools` have a `larg number od students `have `a lowest overall scores`!.Look for the example...
